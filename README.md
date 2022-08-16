@@ -10,5 +10,6 @@
 |[0584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|||[Oracle](./Leetcode/Leet_oracle_0584.sql)|
 |[0586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[MS SQL Server](./Leetcode/Leet_mssql_0586.sql)|||
 |[0595. Big Countries](https://leetcode.com/problems/big-countries/)|||[Oracle](./Leetcode/Leet_oracle_0595.sql)|
+|[1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[MS SQL Server](./Leetcode/Leet_mssql_1729.sql)|||
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|||[Oracle](./Leetcode/Leet_oracle_1757.sql)|
 |[1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[MS SQL Server](./Leetcode/Leet_mssql_1965.sql)|||
