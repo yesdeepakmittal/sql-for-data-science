@@ -20,6 +20,11 @@
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)||[My SQL](./Leetcode/Leet_mysql_1757.sql)|[Oracle](./Leetcode/Leet_oracle_1757.sql)|
 |[1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[MS SQL Server](./Leetcode/Leet_mssql_1965.sql)|||
 
+#### HackerRank
+|Title                        | MS SQL Server | MySQL  | Oracle |
+|-----------------------------|---------------|--------|--------|
+|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[MS SQL Server](./Hackerrank/revising-the-select-query.sql)|||
+
 
 
 #### Other useful links
