@@ -24,6 +24,7 @@
 |Title                        | MS SQL Server | MySQL  | Oracle |
 |-----------------------------|---------------|--------|--------|
 |[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[MS SQL Server](./Hackerrank/revising-the-select-query.sql)|||
+|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[MS SQL Server](./Hackerrank/revising-the-select-query-2.sql)|||
 
 
 
