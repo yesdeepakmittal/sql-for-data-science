@@ -1,6 +1,6 @@
 # SQL for Data Science
 
-#### Leetcode
+### Leetcode
 |Title                        | MS SQL Server | MySQL  | Oracle |
 |-----------------------------|---------------|--------|--------|
 |[0175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MS SQL Server](./Leetcode/Leet_mssql_0175.sql)||[Oracle](./Leetcode/Leet_oracle_0175.sql)|
@@ -20,13 +20,17 @@
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)||[My SQL](./Leetcode/Leet_mysql_1757.sql)|[Oracle](./Leetcode/Leet_oracle_1757.sql)|
 |[1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[MS SQL Server](./Leetcode/Leet_mssql_1965.sql)|||
 
-#### HackerRank
+### HackerRank
 |Title                        | MS SQL Server | MySQL  | Oracle |
 |-----------------------------|---------------|--------|--------|
 |[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[MS SQL Server](./Hackerrank/revising-the-select-query.sql)|||
 |[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[MS SQL Server](./Hackerrank/revising-the-select-query-2.sql)|||
 
 
+### Other Queries & Schemas
+|Title                        | MS SQL Server | MySQL  | Oracle |
+|-----------------------------|---------------|--------|--------|
+|Cross Join||[MySQL](./other-sql-queries-schemas/cross-join.sql)||
 
 #### Other useful links
 - https://github.com/xoraus/CrackingTheSQLInterview
