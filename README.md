@@ -17,6 +17,9 @@
 |[0603. Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/)||[My SQL](./Leetcode/Leet_mysql_0603.sql)||
 |[0610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MS SQL Server](./Leetcode/Leet_mssql_0610.sql)|||
 |[0613. Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/)||[My SQL](./Leetcode/Leet_mysql_0613.sql)||
+|[0619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)|[MS SQL Server](./Leetcode/Leet_mssql_0619.sql)|||
+|[0620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MS SQL Server](./Leetcode/Leet_mssql_0620.sql)|||
+|[0627. Swap Salary](https://leetcode.com/problems/swap-salary/)|[MS SQL Server](./Leetcode/Leet_mssql_0627.sql)|||
 |[1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[MS SQL Server](./Leetcode/Leet_mssql_1729.sql)|[My SQL](./Leetcode/Leet_mysql_1729.sql)||
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)||[My SQL](./Leetcode/Leet_mysql_1757.sql)|[Oracle](./Leetcode/Leet_oracle_1757.sql)|
 |[1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[MS SQL Server](./Leetcode/Leet_mssql_1965.sql)|||
