@@ -16,6 +16,7 @@
 |[0596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MS SQL Server](./Leetcode/Leet_mssql_0596.sql)|||
 |[0603. Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/)||[My SQL](./Leetcode/Leet_mysql_0603.sql)||
 |[0610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MS SQL Server](./Leetcode/Leet_mssql_0610.sql)|||
+|[0613. Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/)||[My SQL](./Leetcode/Leet_mysql_0613.sql)||
 |[1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[MS SQL Server](./Leetcode/Leet_mssql_1729.sql)|[My SQL](./Leetcode/Leet_mysql_1729.sql)||
 |[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)||[My SQL](./Leetcode/Leet_mysql_1757.sql)|[Oracle](./Leetcode/Leet_oracle_1757.sql)|
 |[1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[MS SQL Server](./Leetcode/Leet_mssql_1965.sql)|||
